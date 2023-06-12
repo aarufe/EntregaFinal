@@ -137,7 +137,7 @@
   color: black;
   background: rgb(0, 7, 104);
   background: radial-gradient(circle, rgb(114, 251, 63) 0%, rgb(14, 10, 34) 100%);
-  padding: 20px;
+  padding: 10px;
   font-size: large;
 }
 
