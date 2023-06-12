@@ -32,7 +32,11 @@
   text-align: center;
   color: black;
   background: rgb(0, 7, 104);
-  background: radial-gradient(circle, rgb(114, 251, 63) 0%, rgb(14, 10, 34) 100%);
+  background: radial-gradient(
+    circle,
+    rgb(114, 251, 63) 0%,
+    rgb(14, 10, 34) 100%
+  );
   padding: 20px;
   font-size: large;
 }
@@ -56,7 +60,11 @@
   text-align: center;
   color: black;
   background: rgb(0, 7, 104);
-  background: radial-gradient(circle, rgb(114, 251, 63) 0%, rgb(14, 10, 34) 100%);
+  background: radial-gradient(
+    circle,
+    rgb(114, 251, 63) 0%,
+    rgb(14, 10, 34) 100%
+  );
   padding: 20px;
   font-size: large;
 }
@@ -66,7 +74,7 @@
   color: #ffffff;
   font-size: 12px;
   padding: 25px;
-  text-align:justify;
+  text-align: justify;
 }
 
 .containers {
@@ -86,7 +94,11 @@
   text-align: center;
   color: black;
   background: rgb(0, 7, 104);
-  background: radial-gradient(circle, rgb(114, 251, 63) 0%, rgb(14, 10, 34) 100%);
+  background: radial-gradient(
+    circle,
+    rgb(114, 251, 63) 0%,
+    rgb(14, 10, 34) 100%
+  );
   padding: 20px;
   font-size: large;
 }
@@ -144,7 +156,7 @@ h1 {
 }
 
 p {
-   margin-bottom: 2rem;
+  margin-bottom: 2rem;
 }
 
 a {
@@ -225,8 +237,6 @@ h1 {
   padding: 20px;
 }
 
-
-
 .logowsp {
   width: 70px;
   height: 70px;
@@ -257,7 +267,11 @@ h1 {
   text-align: center;
   color: black;
   background: rgb(0, 7, 104);
-  background: radial-gradient(circle, rgb(114, 251, 63) 0%, rgb(14, 10, 34) 100%);
+  background: radial-gradient(
+    circle,
+    rgb(114, 251, 63) 0%,
+    rgb(14, 10, 34) 100%
+  );
   padding: 20px;
   font-size: large;
 }
@@ -308,7 +322,11 @@ a {
   text-align: center;
   color: black;
   background: rgb(0, 7, 104);
-  background: radial-gradient(circle, rgb(114, 251, 63) 0%, rgb(14, 10, 34) 100%);
+  background: radial-gradient(
+    circle,
+    rgb(114, 251, 63) 0%,
+    rgb(14, 10, 34) 100%
+  );
   padding: 20px;
   font-size: large;
 }
@@ -324,4 +342,4 @@ a {
   background-color: rgb(4, 124, 24);
   height: 4rem;
   transform: rotate Z(20deg);
-}/*# sourceMappingURL=Style.css.map */
+} /*# sourceMappingURL=Style.css.map */

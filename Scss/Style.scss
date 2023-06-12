@@ -16,13 +16,12 @@
 body {
   font-family: $font-family_1;
   background-color: $background-color_1;
-  }
+}
 h1 {
   color: $color_1;
   text-align: center;
   margin: 15px;
 }
-
 
 .contenedor-imagenes {
   width: 500px;
@@ -172,4 +171,3 @@ h1 {
 .footer {
   grid-area: 5 / 1 / 6 / 2;
 }
-
